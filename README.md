@@ -28,7 +28,7 @@ Skills:
 
  
 Check out my projects on GitHub: 
-github.com/DEVLucasMoretti 
+<a href="github.com/DEVLucasMoretti">github.com/DEVLucasMoretti<\a>
  
 Contact: 
 Lucas.morettic5@gmail.com
@@ -43,4 +43,4 @@ Lucas.morettic5@gmail.com
 <h2 style="color: #44AEFB, font-size: 24px">Contact</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucs_moretti?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-moretti-aa2aa1234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moretti-aa2aa1234/)
