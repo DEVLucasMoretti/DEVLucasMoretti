@@ -25,8 +25,6 @@ Always also studying and improving my level of English.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucs_moretti?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moretti-aa2aa1234/)
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 
 <h2 style="color: #44AEFB , font-size: 24px">Skills</h2>
 
