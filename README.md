@@ -15,7 +15,7 @@ Always also studying and improving my level of English.
 Skills: 
 
 <ul>
-  <li>C# (.NET Framework);</li>
+  <li>C# (.NET);</li>
   <li>Java;</li>
   <li>Python ;</li>
   <li>MySQL ;</li>
