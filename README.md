@@ -2,7 +2,7 @@
 
 <h1 style="color: #white", font-size: 32px>Hi, My name is Lucas !👋 </h1>
 
-<p style="color: #44AEFB"><img width="24" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png">Backend Developer | Programmer| Student</p>
+<p style="color: #44AEFB"><img width="24" alt="about" src="https://em-content.zobj.net/thumbs/120/apple/354/technologist-medium-skin-tone_1f9d1-1f3fd-200d-1f4bb.png">Backend Developer | Programmer FullStack| >.Net/Angular/p>
 
 <h2 style="color: #44AEFB, font-size: 24px">About</h2>
 
