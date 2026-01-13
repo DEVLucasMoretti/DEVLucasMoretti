@@ -12,15 +12,6 @@ I always dedicate myself to my tasks, trying to deliver my best on a daily basis
 I'm studying some programming languages like C# at the moment. 
 Always also studying and improving my level of English. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVLucasMoretti)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 style="color: #44AEFB, font-size: 24px">GitHub</h2>
-
-<div align="left">
-  <a href="https://github.com/DEVLucasMoretti">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVLucasMoretti&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
 <h2 style="color: #44AEFB, font-size: 24px">Contact</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucs_moretti?utm_source=qr&igshid=OGIxMTE0OTdkZA==)
