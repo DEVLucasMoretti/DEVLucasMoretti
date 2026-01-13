@@ -6,7 +6,7 @@
 
 <h2 style="color: #44AEFB, font-size: 24px">About</h2>
 
-'m a Computer Science student currently working as a Support Analyst, while actively pursuing my first opportunity as a Full Stack Developer.
+I'm a Computer Science student currently working as a Support Analyst, while actively pursuing my first opportunity as a Full Stack Developer.
 
 I am a dedicated professional, always striving to deliver my best. Currently, I am focused on mastering the .NET ecosystem (C#) and Angular, constantly creating new projects to sharpen my skills. I am also continuously improving my English to work in global environments.
 
