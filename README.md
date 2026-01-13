@@ -6,11 +6,9 @@
 
 <h2 style="color: #44AEFB, font-size: 24px">About</h2>
 
-I'm studying Computer Science, 
-Focused on Backend Development. 
-I always dedicate myself to my tasks, trying to deliver my best on a daily basis. 
-I'm studying some programming languages like C# at the moment. 
-Always also studying and improving my level of English. 
+'m a Computer Science student currently working as a Support Analyst, while actively pursuing my first opportunity as a Full Stack Developer.
+
+I am a dedicated professional, always striving to deliver my best. Currently, I am focused on mastering the .NET ecosystem (C#) and Angular, constantly creating new projects to sharpen my skills. I am also continuously improving my English to work in global environments.
 
 <h2 style="color: #44AEFB, font-size: 24px">Contact</h2>
 
